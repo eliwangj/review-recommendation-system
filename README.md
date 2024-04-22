@@ -1,7 +1,7 @@
 <div align="center">
 <br/>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/EliWangC/review-recommendation-system/blob/main/LICENSE)
+[![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/eliwangj/review-recommendation-system/blob/main/LICENSE)
 
 <img align="center" width=24% src="docs/images/yelp_logo.png"></img>
 
